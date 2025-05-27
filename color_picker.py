@@ -1,3 +1,9 @@
+"""
+Nama    : Wa Ode Zachra Chaerani
+NPM     : 140810230062
+Kelas   : B
+"""
+
 import streamlit as st
 from PIL import Image
 import numpy as np

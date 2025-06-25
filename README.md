@@ -24,5 +24,5 @@ Aplikasi web interaktif menggunakan **Streamlit** untuk mendeteksi dan menampilk
    pip install -r requirements.txt
 5. Jalankan aplikasi dengan perintah:
    streamlit run app.py
-6. Browser akan terbuka otomatis di alamat http://localhost:8501, jika tidak, buka secara manual.
+6. Browser akan terbuka otomatis di alamat (https://colorpicker140810230062.streamlit.app/), jika tidak, buka secara manual.
 
